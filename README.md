@@ -1,2 +1,1 @@
-# dimaslist-org-api
-Public repo for API backend
+This repository is a placeholder for upcoming http://dimaslist.org. It will be used for tracking user feedback and issues.
